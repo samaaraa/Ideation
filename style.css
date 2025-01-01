@@ -457,7 +457,7 @@
 }
  
 .thq-mask-image-vertical {
-  mask-image: linear-gradient(to bottom, transparent, black 1%, black 99%, transparent);
+  mask-image: linear-gradient(to bottom, transparent, rgb(35, 31, 31) 1%, black 99%, transparent);
 }
  
 .thq-mask-image-horizontal {
